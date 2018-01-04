@@ -1,6 +1,8 @@
 # TODO list
 
-- [x] [TODO list](https://lexokid.github.io/test)
+[html预览](https://lexokid.github.io/TODO-list/)
+
+- [x] [TODO list](https://github.com/Lexokid/TODO-list/tree/gh-pages)
     - [x] 简单实现
     - [ ] 完善
 - [ ] 学习React

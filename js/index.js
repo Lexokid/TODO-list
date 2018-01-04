@@ -75,7 +75,6 @@ $.ajax({
   var html = ''
 
   html = TODO.reduce(stitching, '')
-  console.log(html)
 
   // 插入拼接好的html
   $('#demo-list').html(html)
