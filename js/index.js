@@ -1,7 +1,7 @@
 $.ajax({
   type: 'GET',
   crossDomain: true,
-  url: 'https://raw.githubusercontent.com/Lexokid/TODO-list/master/README.md',
+  url: 'https://raw.githubusercontent.com/Lexokid/TODO-list/gh-pages/README.md',
   beforeSend: function () {}
 }).done(function (res) {
   function sort(arr) {
